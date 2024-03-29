@@ -20,7 +20,7 @@
    - Linear Search: As an alternative searching method for finding specific coupons within the list.
 
 ## 5. UML Diagram of the Program
-   ![image](https://github.com/jennakwak/Coupon-Management-System/assets/159206625/de565896-0ba2-4e12-8753-6bc211c8c9d8)
+   <img src="https://github.com/jennakwak/Coupon-Management-System/assets/159206625/de565896-0ba2-4e12-8753-6bc211c8c9d8" width="100">
 
 ## 6. Project report with sample output : 
    
