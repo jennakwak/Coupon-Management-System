@@ -15,12 +15,12 @@
    - **Coupon Purchase**: Enables users to select and 'purchase' coupons from the inventory.
   
 ## 4. Data Algorithms
-   - Merge Sort: For efficiently sorting coupons in the linked list data structure by key fields.
-   - Binary Search Tree (BST): For rapid searching of coupons based on product names.
-   - Linear Search: As an alternative searching method for finding specific coupons within the list.
+   - **Merge Sort**: For efficiently sorting coupons in the linked list data structure by key fields.
+   - **Binary Search Tree (BST)**: For rapid searching of coupons based on product names.
+   - **Linear Search**: As an alternative searching method for finding specific coupons within the list.
 
 ## 5. UML Diagram of the Program
-   <img src="https://github.com/jennakwak/Coupon-Management-System/assets/159206625/de565896-0ba2-4e12-8753-6bc211c8c9d8" width="100">
+   <img src="https://github.com/jennakwak/Coupon-Management-System/assets/159206625/de565896-0ba2-4e12-8753-6bc211c8c9d8" width="400">
 
 ## 6. Project report with sample output : 
    
