@@ -23,4 +23,7 @@
    <img src="https://github.com/jennakwak/Coupon-Management-System/assets/159206625/de565896-0ba2-4e12-8753-6bc211c8c9d8" width="550">
 
 ## 6. Project report with sample output :    
-![1711742700655-95f8b5aa-d939-49a3-ae28-91db7eba21f2_1](https://github.com/jennakwak/Coupon-Management-System/assets/159206625/432fb268-e3e6-4b8b-8249-2a386eb06f1c)
+![1711742700655-95f8b5aa-d939-49a3-ae28-91db7eba21f2_7](https://github.com/jennakwak/Coupon-Management-System/assets/159206625/d1cc657a-b61b-4d29-814b-ad810cb5994b)
+![1711742700655-95f8b5aa-d939-49a3-ae28-91db7eba21f2_6](https://github.com/jennakwak/Coupon-Management-System/assets/159206625/1e4504b4-3301-4b93-bd96-bc321166c1c6)
+![1711742700655-95f8b5aa-d939-49a3-ae28-91db7eba21f2_5](https://github.com/jennakwak/Coupon-Management-System/assets/159206625/b74a839a-d2f7-4d0a-adfa-6f9f1462efcc)
+![1711742700655-95f8b5aa-d939-49a3-ae28-91db7eba21f2_4](https://github.com/jennakwak/Coupon-Management-System/assets/159206625/fdde719e-4364-499c-8666-4efc118b052e)
