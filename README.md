@@ -23,5 +23,5 @@
    <img src="https://github.com/jennakwak/Coupon-Management-System/assets/159206625/de565896-0ba2-4e12-8753-6bc211c8c9d8" width="550">
 
 ## 6. Project report with sample output
-[Proejct Report]
+[Proejct Report](https://github.com/jennakwak/Coupon-Management-System/blob/main/CS401_proj_SDLC_git.pdf)
 
